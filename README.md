@@ -1,7 +1,8 @@
 # Movable Type Export Entries to HTML
 
 This is a quick-and-dirty python 3 script for exporting Entries from a
-Movable Type blog to simple, static HTML pages, one per Entry.
+Movable Type blog's MySQL database to simple, static HTML pages, one per
+Entry.
 
 It's basic, and worked for my needs, but may need tweaking for yours.
 
